@@ -1,0 +1,11 @@
+id=ExtraMapSymbols
+name=Extra Map Symbols
+description=Random collection of additional map symbols
+authors=Wipe,Lexx
+
+modversion=1.1
+versionMin=41.65
+tags=Build 41,Interface,Map
+
+poster=preview_symbols.png
+icon=icon.png
