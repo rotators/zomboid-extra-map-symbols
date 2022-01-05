@@ -1,0 +1,1 @@
+# zomboid-extra-map-symbols
