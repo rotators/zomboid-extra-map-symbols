@@ -1,0 +1,6 @@
+Tooltip_EN = {
+	Tooltip_Map_CantWrite = "Requires a pen, pencil, or crayons.",
+	Tooltip_Map_CantEdit = "Requires an eraser, and a pen, pencil, or crayons.",
+
+	Tooltip_ExtraMapSymbolsUI_NeedCrayons = "Need a pack of crayons."
+}
